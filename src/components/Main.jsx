@@ -4,7 +4,7 @@ import {FaTwitter, FaGithub, FaYoutube, FaLinkedinIn} from 'react-icons/fa'
 
 const Main = () => {
   return (
-      <div id="main" class="bg flex flex-col justify-center relative lg:min-h-[100vh] bg-gray-100 pt-8 px-8 lg:overflow-hidden bg-hero-pattern bg-repeat-x bg-cover scales bg-blend-multiply dark:bg-blend-color-burn">
+      <div id="main" class="flex flex-col justify-center relative lg:min-h-[100vh] bg-gray-100 pt-8 px-8 lg:overflow-hidden bg-hero-pattern bg-repeat-x bg-cover scales bg-blend-multiply dark:bg-blend-color-burn">
         <div class="container relative lg:min-h-[100vh] flex flex-col lg:flex-row lg:items-center mx-auto max-w-screen-xl z-10 -mb-16">
           <div class="w-full lg:w-1/2 flex justify-center self-end">
             <img

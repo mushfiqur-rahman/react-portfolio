@@ -6,10 +6,4 @@
   scroll-behavior: smooth;
 }
 
-.bg{
-background: linear-gradient(
-  145deg, 
-  rgba(2,0,36,1) 0%, 
-  rgb(6, 81, 52) 33%, 
-  rgb(2, 62, 74) 86%);
-}  
+ 
