@@ -7,7 +7,7 @@ const Contact = () => {
         Contact
       </h1>
 
-      <form action="https://getform.io/f/54694316-ab6f-4604-97da-3774f04e8833" method="POST" encType="multipart/form-data">
+      <form action="#" method="" encType="multipart/form-data">
         <div className="grid md:grid-cols-2 gap-4 w-full py-2">
           <div className="flex flex-col">
             <label className="uppercase text-sm py-2">Name</label>
